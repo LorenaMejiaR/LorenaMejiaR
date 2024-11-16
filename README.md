@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Lorena Mejia
-- 🌱 I’m currently learning Data Anlytics in Ironhack. 
+- 🌱 I’m currently learning Data Analytics in Ironhack. 
 - 📫 How to reach me https://www.linkedin.com/in/dra-lorena-mej%C3%ADa/
 - 😄 Pronouns: She
 - ⚡ Fun fact: I am still fan of the BSB!
